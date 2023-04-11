@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\Zada4a\obj\Debug\net6.0\Zada4a.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\Zada4a\obj\Debug\net6.0\Zada4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\Zada4a\obj\Debug\net6.0\Zada4a.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\Zada4a\obj\Debug\net6.0\Zada4a.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\GeekBrains_3628_3626\Zada4a\obj\Debug\net6.0\Zada4a.csproj.CoreCompileInputs.cache
